@@ -11,5 +11,9 @@ public class MethodReference {
     public static void main(String[] args) {
         Payment payment = MethodReference::process;
         System.out.println(payment.pay(123));
+
+        Gpay gpay = new Gpay();
+        System.out.println(gpay.pay(122));
+        gpay.generate();
     }
 }
