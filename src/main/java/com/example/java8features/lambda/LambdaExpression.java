@@ -1,4 +1,6 @@
-package com.example.java8features;
+package com.example.java8features.lambda;
+
+import com.example.java8features.functional_interface.Payment;
 
 import java.text.MessageFormat;
 import java.util.function.BiFunction;

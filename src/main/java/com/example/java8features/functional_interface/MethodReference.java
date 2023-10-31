@@ -1,4 +1,4 @@
-package com.example.java8features;
+package com.example.java8features.functional_interface;
 
 import java.text.MessageFormat;
 
